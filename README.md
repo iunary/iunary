@@ -10,9 +10,9 @@
 
 
 <br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iunary&show_icons=true&locale=en&layout=compact" alt="iunary" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iunary&show_icons=true&locale=en" alt="iunary" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iunary&" alt="iunary" /></p>
+<p><img align="left" width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iunary&show_icons=true&locale=en&layout=compact" alt="iunary" /></p>
+<!--
+<p><img align="center" width="30%" height="100" src="https://github-readme-stats.vercel.app/api?username=iunary&show_icons=true&locale=en&layout=compact" alt="iunary" /></p>
+-->
+<p><img align="center" width="50%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=iunary&show_icons=true&layout=compact" alt="iunary" /></p>
 
