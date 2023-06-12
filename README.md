@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">A backend developer who is passionate about building things for the web</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iunary&label=Profile%20views&color=0e75b6&style=flat" alt="iunary" /> </p><br/> <b />
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=iunary&label=Profile%20views&color=0e75b6&style=flat" alt="iunary" /> </p>-->
+<br/> <b />
 
 <p align="center"><a href="https://www.buymeacoffee.com/unary"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="unary" /></a></p><br><br>
 
